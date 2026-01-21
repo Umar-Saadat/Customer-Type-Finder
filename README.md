@@ -1,6 +1,6 @@
 Customer Type Finder
 📌 Algorithm: K-Nearest Neighbors (KNN)
-🖼️ Image: Customer.PNG
+🖼️ Image: ![Customer Type Finder](Customer.PNG)
 
 📖 Description
 
